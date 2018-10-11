@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="backStageWeb" />
+        <module name="config-api" />
+        <module name="config-manager" />
+        <module name="config-service" />
+        <module name="zookeeperConfig" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="backStageWeb" target="1.5" />
+      <module name="config-api" target="1.5" />
+      <module name="config-manager" target="1.5" />
+      <module name="config-service" target="1.5" />
+      <module name="lynn-config-parent" target="1.5" />
+      <module name="zookeeperConfig" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

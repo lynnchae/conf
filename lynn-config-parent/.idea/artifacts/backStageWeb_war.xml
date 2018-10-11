@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="backStageWeb:war">
+    <output-path>$PROJECT_DIR$/backStageWeb/target</output-path>
+    <root id="archive" name="backStageWeb.war">
+      <element id="artifact" artifact-name="backStageWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

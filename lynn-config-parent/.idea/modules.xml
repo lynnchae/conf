@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backStageWeb/backStageWeb.iml" filepath="$PROJECT_DIR$/backStageWeb/backStageWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-api/config-api.iml" filepath="$PROJECT_DIR$/config-api/config-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-manager/config-manager.iml" filepath="$PROJECT_DIR$/config-manager/config-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lynn-config-parent.iml" filepath="$PROJECT_DIR$/lynn-config-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeperConfig/zookeeperConfig.iml" filepath="$PROJECT_DIR$/zookeeperConfig/zookeeperConfig.iml" />
+    </modules>
+  </component>
+</project>
